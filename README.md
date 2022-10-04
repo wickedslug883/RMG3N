@@ -1,6 +1,6 @@
 # <RMG3N>
 
-## readme.MD Generator
+## README.md Generator
 
 
 To be able to generate things with the help of node.js, making everything so much easier.
@@ -19,31 +19,24 @@ This creates a readME.md based on the users input.
 
 ## Installation
 
-Install Inquirer, then run specified commands within terminal.
+Install Inquirer, then run specified commands (inquirer documentation)  within terminal.
 https://www.npmjs.com/package/inquirer
 ## Usage
 
 This google drive link is for the tutorial!
 
   https://drive.google.com/file/d/1gBbLwjdnaYNCoTmOJkC_EEPPTrYeQaos/view?usp=sharing
-
-
-
-
-    ![alt text](/assets/screenshot_88.png)
- 
   
+
+ <img src="https://github.com/wickedslug883/RMG3N/blob/main/assets/Screenshot_88.png?raw=true"/>
   
-    ![alt text](/assets/screenshot_88.png)
-  
-  
+ <img src="https://github.com/wickedslug883/RMG3N/blob/main/assets/Screenshot_89.png?raw=true)"/>
+
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+  Node.js
+  
+  Inquirer
 
 ## License
 
@@ -62,5 +55,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
